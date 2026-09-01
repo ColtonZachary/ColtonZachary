@@ -2,7 +2,7 @@
 
 CS and Mechanical Engineering student at the University of Central Oklahoma. Software engineering intern at CloudInc / Cloper. Former Amphibious Reconnaissance Marine.
 
-I build full-stack product: Next.js, TypeScript, and Supabase, plus the operations around it (auth, sync, bookings, email).
+I build full-stack products: Next.js, TypeScript, and Supabase, plus the operations around it (auth, sync, bookings, email).
 
 **Now:** shipping [Lucy](https://lucyscampus.com) · intern @ CloudInc / Cloper · Edmond / Oklahoma City
 
