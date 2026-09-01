@@ -31,4 +31,60 @@ I build full-stack products: Next.js, TypeScript, and Supabase, plus the operati
 ---
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                115 commits         ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+🌆 Daytime                220 commits         ███████████░░░░░░░░░░░░░░   43.65 % 
+🌃 Evening                169 commits         ████████░░░░░░░░░░░░░░░░░   33.53 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Tuesday                  93 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Wednesday                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Thursday                 118 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Friday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Saturday                 75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Sunday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     11 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+
+ Last Updated on 01/09/2026 22:40:48 UTC
 <!--END_SECTION:waka-->
