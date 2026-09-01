@@ -26,4 +26,9 @@ I build full-stack products: Next.js, TypeScript, and Supabase, plus the operati
 
 ---
 
-[lucyscampus.com](https://lucyscampus.com) · [lemonheads.vercel.app](https://lemonheads.vercel.app) · [linkedin](www.linkedin.com/in/colton-zachary-607275433) · colt.j.zachary@gmail.com
+[lucyscampus.com](https://lucyscampus.com) · [lemonheads.vercel.app](https://lemonheads.vercel.app) · [linkedin](https://www.linkedin.com/in/colton-zachary-607275433) · colt.j.zachary@gmail.com
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
