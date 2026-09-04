@@ -73,30 +73,6 @@ Agent                    17 mins             █░░░░░░░░░░�
 Mac                      10 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 25 mins (99.97%)
-
-✍️ 4,166 lines written by AI, 1 lines written by hand (99.98% AI-written)
-
-🔤 102,696 Input Tokens, 102,696 Output Tokens
-
-💵 $0.82 Estimated AI Cost This Week
-
-🧠 37 AI Sessions, 188 AI Prompts
-
-Grok                     2,131 lines         ████████████░░░░░░░░░░░░░   49.18 % 
-Cursor                   1,478 lines         █████████░░░░░░░░░░░░░░░░   34.11 % 
-Opus                     724 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 2,479 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
-```
-
 **I Mostly Code in Java** 
 
 ```text
