@@ -58,33 +58,33 @@ Sunday                   33 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.04 % 
-Text                     1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+TypeScript               2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.42 % 
+Text                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 54 mins       ██████████████████████░░░   87.86 % 
-VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Agent                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Cursor                   4 hrs 12 mins       ██████████████████████░░░   86.23 % 
+VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Agent                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 💻 Operating System: 
-Mac                      5 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 34 mins (99.94%)
+⏱ AI Coding Time: 4 hrs 52 mins (99.93%)
 
 ✍️ 3,557 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 102,716 Input Tokens, 102,716 Output Tokens
+🔤 96,965 Input Tokens, 96,965 Output Tokens
 
-💵 $0.82 Estimated AI Cost This Week
+💵 $0.78 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 99 AI Prompts
+🧠 30 AI Sessions, 81 AI Prompts
 
 Grok                     2,026 lines         ██████████████░░░░░░░░░░░   54.77 % 
 Cursor                   949 lines           ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
@@ -93,7 +93,7 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 4,487 characters per prompt
+📚 Verbose Prompter — average 5,116 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
@@ -111,5 +111,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 10:16:55 UTC
+ Last Updated on 06/09/2026 10:37:07 UTC
 <!--END_SECTION:waka-->
