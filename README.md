@@ -34,21 +34,21 @@ I build full-stack products: Next.js, TypeScript, and Supabase, plus the operati
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                104 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-🌆 Daytime                206 commits         ███████████░░░░░░░░░░░░░░   43.74 % 
-🌃 Evening                161 commits         █████████░░░░░░░░░░░░░░░░   34.18 % 
+🌞 Morning                107 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+🌆 Daytime                212 commits         ███████████░░░░░░░░░░░░░░   44.07 % 
+🌃 Evening                162 commits         ████████░░░░░░░░░░░░░░░░░   33.68 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Tuesday                  93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Thursday                 107 commits         ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Saturday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Sunday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Monday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Tuesday                  98 commits          █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Wednesday                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Thursday                 107 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Friday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Saturday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
 
 
@@ -58,58 +58,58 @@ Sunday                   36 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               1 hr 52 mins        █████████████░░░░░░░░░░░░   50.21 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Text                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+HTML                     1 hr 23 mins        ██████████████░░░░░░░░░░░   54.85 % 
+Other                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 32 mins       ████████████████████████░   94.36 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Cursor                   1 hr 1 min          ███████████░░░░░░░░░░░░░░   43.73 % 
+Agent                    55 mins             ██████████░░░░░░░░░░░░░░░   39.32 % 
+VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 44 mins (99.91%)
+⏱ AI Coding Time: 1 hr 50 mins (78.23%)
 
-✍️ 2,515 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 108 lines written by AI, 67 lines written by hand (61.71% AI-written)
 
-🔤 82,760 Input Tokens, 82,760 Output Tokens
+🔤 5,766 Input Tokens, 5,766 Output Tokens
 
-💵 $0.66 Estimated AI Cost This Week
+💵 $0.10 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 55 AI Prompts
+🧠 8 AI Sessions, 46 AI Prompts
 
-Grok                     1,708 lines         ████████████████░░░░░░░░░   64.14 % 
-Cursor                   949 lines           █████████░░░░░░░░░░░░░░░░   35.64 % 
-Opus                     6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Grok                     335 lines           █████████████████████████   98.24 % 
+Opus                     6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 6,294 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+⚖️ Balanced with AI — 61.71% of written lines came from AI
+📄 Detailed Prompter — average 704 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 40.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     11 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Java                     11 repos            ████████████░░░░░░░░░░░░░   47.83 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 08/09/2026 10:56:37 UTC
+ Last Updated on 09/09/2026 11:00:56 UTC
 <!--END_SECTION:waka-->
