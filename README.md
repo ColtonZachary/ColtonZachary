@@ -34,21 +34,21 @@ I build full-stack products: Next.js, TypeScript, and Supabase, plus the operati
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                107 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-🌆 Daytime                212 commits         ███████████░░░░░░░░░░░░░░   44.07 % 
-🌃 Evening                162 commits         ████████░░░░░░░░░░░░░░░░░   33.68 % 
+🌞 Morning                107 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌆 Daytime                212 commits         ███████████░░░░░░░░░░░░░░   43.80 % 
+🌃 Evening                165 commits         █████████░░░░░░░░░░░░░░░░   34.09 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Tuesday                  98 commits          █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Wednesday                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Thursday                 107 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Friday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Saturday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Monday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Tuesday                  98 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Wednesday                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Thursday                 110 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Friday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Saturday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 
 
@@ -58,44 +58,44 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-HTML                     1 hr 23 mins        ██████████████░░░░░░░░░░░   54.85 % 
-Other                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+HTML                     1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   40.32 % 
+TypeScript               40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Python                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 🔥 Editors: 
-Cursor                   1 hr 1 min          ███████████░░░░░░░░░░░░░░   43.73 % 
-Agent                    55 mins             ██████████░░░░░░░░░░░░░░░   39.32 % 
-VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Cursor                   1 hr 49 mins        █████████████░░░░░░░░░░░░   52.57 % 
+Agent                    1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.88 % 
+VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 
 💻 Operating System: 
-Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (78.23%)
+⏱ AI Coding Time: 2 hrs 56 mins (85.16%)
 
-✍️ 108 lines written by AI, 67 lines written by hand (61.71% AI-written)
+✍️ 1,640 lines written by AI, 67 lines written by hand (96.07% AI-written)
 
-🔤 5,766 Input Tokens, 5,766 Output Tokens
+🔤 114,347 Input Tokens, 114,347 Output Tokens
 
-💵 $0.10 Estimated AI Cost This Week
+💵 $2.06 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 46 AI Prompts
+🧠 16 AI Sessions, 65 AI Prompts
 
-Grok                     335 lines           █████████████████████████   98.24 % 
-Opus                     6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Grok                     967 lines           ██████████████████████░░░   89.29 % 
+Opus                     116 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.71% of written lines came from AI
-📄 Detailed Prompter — average 704 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 40.66% of changed lines were hand-edited
+🤖 AI-Driven — 96.07% of written lines came from AI
+📚 Verbose Prompter — average 7,096 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -111,5 +111,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 10:57:36 UTC
+ Last Updated on 11/09/2026 10:56:05 UTC
 <!--END_SECTION:waka-->
