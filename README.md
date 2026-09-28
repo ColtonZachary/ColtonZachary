@@ -58,28 +58,28 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               1 hr                ███████████░░░░░░░░░░░░░░   43.66 % 
-Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-C++                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Makefile                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Other                    2 hrs 31 mins       █████████████░░░░░░░░░░░░   50.02 % 
+JavaScript               1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+C++                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Makefile                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████░░░░░░░░   68.61 % 
-Claude Code              26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Cursor                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  4 hrs 19 mins       █████████████████████░░░░   85.58 % 
+Claude Code              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Cursor                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (32.58%)
+⏱ AI Coding Time: 45 mins (14.97%)
 
-✍️ 401 lines written by AI, 102 lines written by hand (79.72% AI-written)
+✍️ 401 lines written by AI, 395 lines written by hand (50.38% AI-written)
 
 🔤 30,423 Input Tokens, 10,145 Output Tokens
 
@@ -94,10 +94,10 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.72% of written lines came from AI
+⚖️ Balanced with AI — 50.38% of written lines came from AI
 📄 Detailed Prompter — average 700 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 46.6% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -113,5 +113,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 11:44:40 UTC
+ Last Updated on 28/09/2026 13:23:01 UTC
 <!--END_SECTION:waka-->
