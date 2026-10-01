@@ -58,44 +58,42 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    2 hrs 31 mins       ██████████████████░░░░░░░   71.26 % 
-C++                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Makefile                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Other                    2 hrs 32 mins       █████████████░░░░░░░░░░░░   51.55 % 
+C++                      2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.47 % 
+Makefile                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ███████████████████████░░   92.10 % 
-Cursor                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  4 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (8.09%)
+⏱ AI Coding Time: 16 mins (5.44%)
 
-✍️ 198 lines written by AI, 294 lines written by hand (40.24% AI-written)
+✍️ 45 lines written by AI, 632 lines written by hand (6.65% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 28,431 Input Tokens, 349 Output Tokens
 
-💵 $6.36 Estimated AI Cost This Week
+💵 $6.45 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-Grok                     207 lines           █████████████████████████   100.00 % 
+Github-Copilot           45 lines            █████████████████████░░░░   83.33 % 
+Grok                     9 lines             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.24% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 62.78% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 6.65% of written lines came from AI
+📝 Concise Prompter — average 46 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 94.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -111,5 +109,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 12:13:28 UTC
+ Last Updated on 01/10/2026 12:47:53 UTC
 <!--END_SECTION:waka-->
