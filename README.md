@@ -58,24 +58,24 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    2 hrs 32 mins       █████████████░░░░░░░░░░░░   51.55 % 
-C++                      2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.47 % 
-Makefile                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other                    2 hrs 32 mins       ██████████████░░░░░░░░░░░   57.67 % 
+C++                      1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   40.15 % 
+Makefile                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (5.44%)
+⏱ AI Coding Time: 16 mins (6.09%)
 
-✍️ 45 lines written by AI, 632 lines written by hand (6.65% AI-written)
+✍️ 45 lines written by AI, 631 lines written by hand (6.66% AI-written)
 
 🔤 28,431 Input Tokens, 349 Output Tokens
 
@@ -90,10 +90,10 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.65% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 6.66% of written lines came from AI
 📝 Concise Prompter — average 46 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 94.87% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -109,5 +109,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 11:21:38 UTC
+ Last Updated on 04/10/2026 12:03:08 UTC
 <!--END_SECTION:waka-->
