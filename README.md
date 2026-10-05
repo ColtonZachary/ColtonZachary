@@ -58,24 +58,24 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    2 hrs 32 mins       ██████████████░░░░░░░░░░░   57.67 % 
-C++                      1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   40.15 % 
-Makefile                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+C++                      1 hr 33 mins        ███████████████████████░░   93.16 % 
+Makefile                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (6.09%)
+⏱ AI Coding Time: 16 mins (15.99%)
 
-✍️ 45 lines written by AI, 631 lines written by hand (6.66% AI-written)
+✍️ 45 lines written by AI, 338 lines written by hand (11.75% AI-written)
 
 🔤 28,431 Input Tokens, 349 Output Tokens
 
@@ -90,10 +90,10 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.66% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 11.75% of written lines came from AI
 📝 Concise Prompter — average 46 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 94.84% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -109,5 +109,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 12:03:08 UTC
+ Last Updated on 05/10/2026 14:06:27 UTC
 <!--END_SECTION:waka-->
