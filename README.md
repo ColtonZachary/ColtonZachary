@@ -58,13 +58,14 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               29 mins             ███████████████████░░░░░░   77.91 % 
+HTML                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      37 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,5 +87,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 10:37:00 UTC
+ Last Updated on 25/10/2026 11:01:21 UTC
 <!--END_SECTION:waka-->
