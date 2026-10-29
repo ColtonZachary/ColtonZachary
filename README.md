@@ -58,14 +58,16 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               29 mins             ███████████████████░░░░░░   77.91 % 
-HTML                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+JavaScript               29 mins             ████████████░░░░░░░░░░░░░   47.23 % 
+Java                     24 mins             ██████████░░░░░░░░░░░░░░░   38.86 % 
+HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+PlantUML                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +89,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 12:26:29 UTC
+ Last Updated on 29/10/2026 12:36:34 UTC
 <!--END_SECTION:waka-->
